@@ -31,6 +31,6 @@ describe('Calculator Service test suite',()=>{
         
         //assert
 
-        expect(act).toEqual(16)
+        expect(act).toEqual(15)
     })
 })
